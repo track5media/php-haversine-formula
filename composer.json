@@ -24,6 +24,12 @@
             "email": "leonardo.docarmo@hotmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "github",
+            "url": "https://github.com/track5media/unit-converter.git"
+        }
+    ],
     "autoload": {
       "psr-4": {
         "Haversini\\": "src/"
